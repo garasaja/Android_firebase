@@ -4,12 +4,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <com.google.android.gms.common.internal.SignInButtonImpl
+    <com.google.android.gms.common.SignInButton
         android:id="@+id/btn_google_login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btn_google_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="로그아웃"/>
+
+    <TextView
+        android:id="@+id/tv_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="로그인/로그아웃 성공 유무"
+        android:gravity="center"
+        android:textSize="30sp"/>
+
+
 
 
 </LinearLayout>
