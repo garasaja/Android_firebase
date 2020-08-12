@@ -1,0 +1,2 @@
+rootProject.name='cosapp'
+include ':app'

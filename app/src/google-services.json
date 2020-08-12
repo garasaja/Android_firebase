@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "899505691321",
+    "firebase_url": "https://cosapp-bdfd5.firebaseio.com",
+    "project_id": "cosapp-bdfd5",
+    "storage_bucket": "cosapp-bdfd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899505691321:android:8a4829a2ab4a13efeb5968",
+        "android_client_info": {
+          "package_name": "com.mini.cosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899505691321-sru3h0adg5ispoakuf4b5bc6qm633pur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mini.cosapp",
+            "certificate_hash": "0afc5bd1e1cb89e7c52225793964ba71f53e7e01"
+          }
+        },
+        {
+          "client_id": "899505691321-buh73g2dfcccemf83uodun04gva983uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLOR93u51PFnevoefSeHUo5HMvpARCnWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899505691321-buh73g2dfcccemf83uodun04gva983uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
